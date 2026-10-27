@@ -4,6 +4,8 @@ Terminal duplicate finder for macOS. Review identical files and move the redunda
 
 It works in the spirit of [Gemini 2](https://gemini.macpaw.com) and lives in the shell like [yazi](https://github.com/sxyazi/yazi).
 
+![kembar reviewing duplicates and moving copies to Trash](docs/preview.png)
+
 ```
  kembar  /Users/you/Pictures                                       412 groups · 38.2 GB freeable
 ┌ Groups (412) ────────────────────────┐┌ Copies (3) · 12.4 MB each ───────────────────────┐
